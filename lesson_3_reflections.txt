@@ -1,0 +1,7 @@
+Q1 When would you want to use a remote repository rather than keeping all your work local?
+
+A1 A remote repository makes sense if the files will be accessed from multiple different
+computers or devices. It would be useful for development teams, remote workers, and 
+even accessing files from libraries and internet cafes while backpacking across Europe. 
+Additionally, the remote repository provides file redundancy in the case of hardware 
+failure on a local device. 
