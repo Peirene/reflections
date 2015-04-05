@@ -20,4 +20,9 @@ How would branches help?
 
 A4 Branches would be helpful when making an experimental change or when developing different
 version of the code, as they would allow each variant to function as an independent development
-project. 
+project.
+
+Q5 How do the diagrams help you visualize the branch structure?
+
+A5 The diagrams make it clear which commits are part of each branch, and where the splits occur.
+ 
