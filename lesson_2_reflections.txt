@@ -15,3 +15,9 @@ A3 You can review the staging area with git status to confirm that only the file
 with the change are included in the commit. You can compare the files in the master, staging
 area, and most recent commit to confirm that the staged files represent the logical change. 
 
+Q4 What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+A4 Branches would be helpful when making an experimental change or when developing different
+version of the code, as they would allow each variant to function as an independent development
+project. 
