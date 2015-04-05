@@ -25,4 +25,9 @@ project.
 Q5 How do the diagrams help you visualize the branch structure?
 
 A5 The diagrams make it clear which commits are part of each branch, and where the splits occur.
+
+Q6 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A6 The changes in both branches are reflected in the single merged branch.
+
  
