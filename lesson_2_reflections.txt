@@ -1,0 +1,10 @@
+Q1 What happens when you initialize a repository? Why do you need to do it?
+
+A1 Initializing a repository creates the .git file which stores the metadata
+describing the files and their status at a point in time (commit). 
+
+Q2 How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+A2 The staging area gives you a way to specify which files you want to include in
+a commit. It provides an opportunity for review and revision.
