@@ -1,0 +1,39 @@
+Q1 How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A1 It rapidly and accurately identified the differences between the files, 
+which made it easier to identify the break in the code. 
+
+Q2 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A2 I could look back on the steps I took to solve different problems 
+or meet specifications and identify ways to make the revision 
+process more efficient in the future. 
+
+Q3 What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google docs does?
+
+A3 When versions are automatically saved, it does save the problems that can occur when you 
+either forget to save or experience a system failure before you have the opportunity to 
+save your work. Unfortunately, the autosaves are not likely to be made at logical or 
+meaningful points in the work as would ideally be the case with a manual save. 
+
+Q4 Why do you think some version control systems, like Git, allow saving multiple files in 
+one commit, while others, like Google Docs, treat each file separately?
+
+A4 Different systems were developed with different anticipated uses. Presumably, Git was 
+designed with assumption that it would used to track multi-file projects. Google Docs was 
+designed with the assumption of stand-alone files. 
+
+Q5 How can you use the commands git log and git diff to view the history of files?
+
+A5 The git log command will show a summary of each commit, and git diff will show the
+specific changes made from one commit to another commit.
+
+Q6 How might using version control make you more confident to make changes that could break something?
+
+A6 Version control will allow you to revert to an older functional version and identify differences
+to find and fix the error quickly.
+
+Q7 Now that you have your workspace set up, what do you want to try using Git for?
+
+A7 Managing my own project development.
