@@ -14,4 +14,14 @@ with on my local computer. If I am part of a development team, the most recent c
 the remote repository might be code sections, files, or branches that another member of the
 team has been working on rather than the code relevent to my current development work. 
 
+Q3 Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
 
+Q4 A fork is a clone that GitHub creates for you on their servers. It incorporates tracking
+and other metadata about the source of the repository and reflects how many times a 
+specific repository has been cloned. Clones are copies of repositories that can be made 
+on your local drive or on GitHub. Branches are logical splits in the commits of the files 
+in a repository, and are used when you need to make changes to code without losing the 
+master files.
+
+ 
