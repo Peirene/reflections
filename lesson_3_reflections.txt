@@ -5,3 +5,13 @@ computers or devices. It would be useful for development teams, remote workers, 
 even accessing files from libraries and internet cafes while backpacking across Europe. 
 Additionally, the remote repository provides file redundancy in the case of hardware 
 failure on a local device. 
+
+Q2 Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+A2 Pulling changes manually provides more control over which branch of code I have to work
+with on my local computer. If I am part of a development team, the most recent commits on 
+the remote repository might be code sections, files, or branches that another member of the
+team has been working on rather than the code relevent to my current development work. 
+
+
