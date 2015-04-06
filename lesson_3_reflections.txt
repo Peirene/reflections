@@ -29,5 +29,13 @@ Q4 What is the benefit of having a copy of the last known state of the remote st
 A4 It allows for quick and easy confirmation of whether you have made any local updates that 
 are not yet reflected on the remote repository.
 
+Q5 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A5 Without Git / GitHub, I might find myself having to use Google Docs or SharePoint to collaborate.
+It might be a little bit more user-friendly of an interface, but it would be much harder to compare 
+changes and track development branches. 
+
+
+
 
  
