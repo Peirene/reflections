@@ -35,7 +35,11 @@ A5 Without Git / GitHub, I might find myself having to use Google Docs or ShareP
 It might be a little bit more user-friendly of an interface, but it would be much harder to compare 
 changes and track development branches. 
 
+Q6 When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
 
-
+A6 Making changes in a separate branch allows changes to be made and tested without compromising
+the integrity of the code in the master branch. This is useful for champion/challenger changes, 
+untested code solutions, or collaborative work. 
 
  
